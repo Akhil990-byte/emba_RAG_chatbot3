@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-core
+langchain-openai
+langchain-pinecone
+pinecone-client
+flashrank
+keybert
+sentence-transformers
+pypdf
