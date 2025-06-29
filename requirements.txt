@@ -3,7 +3,7 @@ langchain
 langchain-core
 langchain-openai
 langchain-pinecone
-pinecone-client
+pinecone
 flashrank
 keybert
 sentence-transformers
